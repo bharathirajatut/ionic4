@@ -2,7 +2,11 @@ Hi,
 
 Get the tutorial of Ionic 4 camera using the below link.
 
-<b>Preview of Example.</b>
+<b>Preview of iOS.</b>
+
+Coming soon.
+
+<b>Preview of Android.</b>
 <p>
 <img src="https://github.com/bharathirajatut/ionic4/blob/master/camera-example/ionic4-camera-example-1.jpg" height="450px">
 <img src="https://github.com/bharathirajatut/ionic4/blob/master/camera-example/ionic4-camera-example-2.jpg" height="450px">
