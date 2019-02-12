@@ -2,6 +2,8 @@ Hi,
 
 Get the tutorial of Ionic 4 camera using the below link.
 
+https://ampersandacademy.com/tutorials/ionic-framework-4/ionic-4-camera-plugin-example
+
 <b>Preview of iOS.</b>
 
 Coming soon.
