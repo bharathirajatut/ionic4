@@ -1,4 +1,10 @@
-# ionic4
+# Ionic4 Book
+
+Hi I am writing a book for Ionic4. Will be released soon.
+
+<a href="https://ampersandacademy.com/publications/">Book Link</a>
+
+# Ionic4
 This repo contains example code for ionic4
 
 ## APK
