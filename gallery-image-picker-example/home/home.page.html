@@ -1,0 +1,16 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>
+      Ionic Image Picker
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content padding>
+    <ion-button (click)="openImagePicker()" >Image Picker</ion-button>
+    <ion-content class="card-background-page" *ngFor="let x of images">
+
+        <ion-card>
+          <img src="{{x}}" style="height:400px">
+        </ion-card>
+</ion-content>
