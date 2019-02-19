@@ -18,3 +18,4 @@ I thought to share the apk of Ionic example which is written by me. So in each t
 
 1. <a href="https://ampersandacademy.com/tutorials/ionic-framework-4/install-ionic4-on-windows-10">Install Ionic 4 on Windows</a>
 2. <a href="https://github.com/bharathirajatut/ionic4/tree/master/camera-example">Camera plugin Example</a>
+3. <a href="https://github.com/bharathirajatut/ionic4/tree/master/camera-image-upload-example-php">Image Upload using PHP</a>
