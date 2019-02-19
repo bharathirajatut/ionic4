@@ -27,11 +27,16 @@ echo $target_path;
 }
 ?>
 ```
+
 ## Downnload APK
 
 Get the APK and test it on your Android Device.
 
 <a href="https://github.com/bharathirajatut/ionic4/blob/master/camera-image-upload-example-php/app-debug.apk">APK</a>
+
+To test this apk successfully, you need PHP server up and running on your machine.
+
+Please note that. The APK looks for the http://localhost/ionic/upload.php URL. So if you trying this apk, then you must have this URL. Then only will work. Or else you can change the code and compile another apk.
 
 
 ### Tested Device: Moto G4 Plus
