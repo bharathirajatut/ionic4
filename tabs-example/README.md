@@ -12,7 +12,7 @@
 
 Get the APK and test it on your Android Device.
 
-<a href="https://github.com/bharathirajatut/ionic4/blob/master/camera-example/app-debug.apk">APK</a>
+<a href="https://github.com/bharathirajatut/ionic4/tree/master/tabs-example/app-debug.apk">APK</a>
 
 <b>Tested Device:</b>
 Moto G4 Plus
