@@ -35,7 +35,10 @@ export class HomePage {
     })
     //alert(token)
       let ua='model:'+this.device.model+',platform:'+this.device.model+',version:'+this.device.version+',manufacturer:'+this.device.manufacturer
-      let url="https://ampersandacademy.com/ionic/push/send-notification.php";
+      
+      //change to ur own url
+      let url="https://localhost/ionic/push/send-notification.php";
+      
       let params="?title="+this.title+"&message="+this.message+"&ua="+ua+"&token="+token;
       //alert(url+params)
       await this.http.get(url+params).subscribe((response) => {
