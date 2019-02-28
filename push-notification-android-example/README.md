@@ -4,7 +4,8 @@ I am very happy to present this apk to all. Setting up push notification is alwa
 
 <b>Preview of Android.</b>
 <p>
-<img src="https://github.com/bharathirajatut/ionic4/blob/master/gallery-image-picker-example/screenshot1.jpg" height="450px">
+<img src="https://github.com/bharathirajatut/ionic4/blob/master/push-notification-android-example/sc1.jpg" height="450px">
+<img src="https://github.com/bharathirajatut/ionic4/blob/master/push-notification-android-example/sc2.jpg" height="450px">
 </p>
 <br>
 
@@ -16,13 +17,20 @@ Coming soon.
 
 Get the APK and test it on your Android Device.
 
-<a href="https://github.com/bharathirajatut/ionic4/blob/master/gallery-image-picker-example/app-debug.apk">APK</a>
+<a href="https://github.com/bharathirajatut/ionic4/blob/master/push-notification-android-example/app-debug.apk">APK</a>
 
 <b>Note: You can download this apk and test it on your device. This apk is not harmful and it is not stealing any info. 
 If you wanna try, please download install on your device. And you can try this without any worries.</b>
 
 <b>Tested Device:</b>
 Moto G4 Plus
+
+## Used Plugin in APK
+
+1. Phonegap Push 
+2. Storage
+3. HttpClient
+4. Firebase (Only for notification)
 
 ## Data Captured Using this APK
 
@@ -44,8 +52,12 @@ We won't use any of these information for any marketing purpose. We capturing th
 1. You must change the title and message each time before pressing send message, or else it wont send the notification
 2. Image of this notification is fixed. You can not change it. You can change only title and message of push notification
 
+## PHP Notification Code
+
+Use the below link to get code for sending push notification using PHP
+
+https://ampersandacademy.com/tutorials/ionic-framework-version-2/push-notification-automate-using-php
+
 ## Queries
 
-If you have any queries, please raise your query in the issue section og github
-
-
+If you have any queries, please raise your query in the issue section og github.
