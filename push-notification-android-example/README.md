@@ -1,5 +1,6 @@
-## Ionic 4 Image Picker Example
+## Ionic Push Notification Example - Android
 
+I am very happy to present this apk to all. Setting up push notification is always a hectic task. Many time we will encounter build error. Some time the push notification won't work. Some times the images can not be delivered, due to the poor documentation from Phonegap push plugin and Firebase.
 <b>Preview of iOS.</b>
 
 Coming soon.
@@ -7,8 +8,6 @@ Coming soon.
 <b>Preview of Android.</b>
 <p>
 <img src="https://github.com/bharathirajatut/ionic4/blob/master/gallery-image-picker-example/screenshot1.jpg" height="450px">
-<img src="https://github.com/bharathirajatut/ionic4/blob/master/gallery-image-picker-example/screenshot2.jpg" height="450px">
-<img src="https://github.com/bharathirajatut/ionic4/blob/master/gallery-image-picker-example/screenshot3.jpg" height="450px">
 </p>
 <br>
 
