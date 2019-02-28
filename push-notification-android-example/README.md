@@ -61,3 +61,5 @@ https://ampersandacademy.com/tutorials/ionic-framework-version-2/push-notificati
 ## Queries
 
 If you have any queries, please raise your query in the issue section og github.
+
+https://github.com/bharathirajatut/ionic4/issues
