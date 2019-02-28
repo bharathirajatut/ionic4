@@ -13,19 +13,19 @@ I am very happy to present this apk to all. Setting up push notification is alwa
 
 Coming soon.
 
-## Downnload APK
+## Download APK
 
 Get the APK and test it on your Android Device.
 
 <a href="https://github.com/bharathirajatut/ionic4/blob/master/push-notification-android-example/app-debug.apk">APK</a>
 
-<b>Note: You can download this apk and test it on your device. This apk is not harmful and it is not stealing any info. 
-If you wanna try, please download install on your device. And you can try this without any worries.</b>
+<b>Note: You can download this apk and test it on your device. This apk is not harmful and it is not stealing any of your private info. 
+If you wanna try, please download install on your device. And you can try this without any worries. The data captured by this apk is mentined below.</b>
 
 <b>Tested Device:</b>
 Moto G4 Plus
 
-## Used Plugin in APK
+## Plugins Used in APK
 
 1. Phonegap Push 
 2. Storage
@@ -34,22 +34,22 @@ Moto G4 Plus
 
 ## Data Captured Using this APK
 
-Information will be captured when press send notification button only. It won't capture any information when you open this App. The below information will be capture when you press send notification button.
+Information will be captured only, when your press the send notification button. It won't capture any information, when you open this App. The below information will be capture when you press the send notification button.
 
 1. IP
 2. Device Basic Information
 3. Custom title and message you send
 4. Your push notification token
 
-We won't use any of these information for any marketing purpose. We capturing these information only to know the usage of the APK.
+We won't use any of these information for any marketing purpose. We capturing these information, only to know the usage of the APK.
 
 ## Features of this APK
 
-1. You can send your custom title and message to this notification
+1. You can send your custom title and message to your device using this notification apk 
 2. You can test the working of push notification on your device
 
 ## Must Do  
-1. You must change the title and message each time before pressing send message, or else it wont send the notification
+1. You must change the title and message each time before pressing send message, or else it wont send the notification. 
 2. Image of this notification is fixed. You can not change it. You can change only title and message of push notification
 
 ## PHP Notification Code
