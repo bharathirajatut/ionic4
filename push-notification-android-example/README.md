@@ -1,4 +1,4 @@
-## Ionic Push Notification Example - Android
+## Ionic4 Push Notification Example - Android
 
 I am very happy to present this apk to all. Setting up push notification is always a hectic task. Many time we will encounter build error. Some time the push notification won't work. Some times the images can not be delivered, due to the poor documentation from Phonegap push plugin and Firebase.
 
