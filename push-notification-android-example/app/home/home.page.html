@@ -1,0 +1,25 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>
+Push Notification Example
+</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content padding>
+
+    <ion-item>
+        <ion-label position="stacked">Notification Title</ion-label>
+        <ion-input  [(ngModel)]="title"></ion-input>
+      </ion-item>
+
+      <ion-item>
+          <ion-label position="stacked" >Notification Message</ion-label>
+          <ion-input [(ngModel)]="message"></ion-input>
+        </ion-item>
+
+        <ion-button expand="full" (click)="sendNotification()" >Send Message</ion-button>
+
+        <ion-button expand="full" (click)="reset()" >Reset</ion-button>
+
+</ion-content>
