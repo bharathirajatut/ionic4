@@ -24,7 +24,7 @@ If you wanna try, please download install on your device. And you can try this w
 <b>Tested Device:</b>
 Moto G4 Plus
 
-### Data Captured Using this APK
+## Data Captured Using this APK
 
 Information will be captured when press send notification button only. It won't capture any information when you open this App. The below information will be capture when you press send notification button.
 
@@ -35,16 +35,16 @@ Information will be captured when press send notification button only. It won't 
 
 We won't use any of these information for any marketing purpose. We capturing these information only to know the usage of the APK.
 
-### Features of this APK
+## Features of this APK
 
 1. You can send your custom title and message to this notification
 2. You can test the working of push notification on your device
 
-### Must Do  
+## Must Do  
 1. You must change the title and message each time before pressing send message, or else it wont send the notification
 2. Image of this notification is fixed. You can not change it. You can change only title and message of push notification
 
-### Queries
+## Queries
 
 If you have any queries, please raise your query in the issue section og github
 
