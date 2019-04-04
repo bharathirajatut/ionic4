@@ -3,7 +3,7 @@
 
 <b>Preview of Browser.</b>
 <p>
-<img src="https://github.com/bharathirajatut/ionic4/blob/master/tabs-example/sc1.png" height="450px">
+<img src="https://github.com/bharathirajatut/ionic4/blob/master/tabs-example/sc4.png" height="450px">
 <img src="https://github.com/bharathirajatut/ionic4/blob/master/tabs-example/sc2.png" height="450px">
 </p>
 <br>
