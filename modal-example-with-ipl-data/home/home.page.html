@@ -1,0 +1,29 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>
+      IPL 2019
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content inset="true">
+
+    <ion-list>
+      <ion-list-header color="tertiary">
+        <ion-label>CSK SQUAD</ion-label>
+      </ion-list-header>
+        <ion-item *ngFor="let x of playersList;let i=index" >
+            <ion-avatar (click)="openModal(x)">
+              <img [src]="x.image">
+            </ion-avatar>
+            <ion-label (click)="openModal(x)">
+              <h3>{{x.name}}</h3>
+              <p>{{x.role}}</p>
+            </ion-label>
+            <ion-icon name="eye" color="success" (click)="openModal(x,i)" slot="end"></ion-icon>
+            <ion-icon name="create" color="danger" slot="end" (click)="editModal(x)"></ion-icon>
+          </ion-item>
+      </ion-list>
+
+
+</ion-content>

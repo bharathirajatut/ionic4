@@ -1,0 +1,46 @@
+<ion-header>
+  <ion-toolbar>
+      <ion-buttons slot="start">
+          <ion-button color="danger" (click)="dismiss()">
+            <span ion-text color="primary" showWhen="ios"></span>
+            <ion-icon name="md-close" showWhen="android,windows"></ion-icon>
+          </ion-button>
+        </ion-buttons>
+    <ion-title>Edit Player Info</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-list>
+    <ion-list-header color="danger">
+      Edit {{player.name}} Information
+    </ion-list-header>
+  </ion-list>
+    <ion-item>
+        <ion-label position="floating">Matches</ion-label>
+        <ion-input [(ngModel)]="player.matches" ></ion-input>
+      </ion-item>
+
+      <ion-item>
+          <ion-label position="floating">Runs</ion-label>
+          <ion-input [(ngModel)]="player.runs" ></ion-input>
+        </ion-item>
+
+        <ion-item>
+            <ion-label position="floating">Fifties</ion-label>
+            <ion-input [(ngModel)]="player.fifties" ></ion-input>
+          </ion-item>
+
+          <ion-item>
+              <ion-label position="floating">4s</ion-label>
+              <ion-input [(ngModel)]="player.fours" ></ion-input>
+            </ion-item>
+
+            <ion-item>
+                <ion-label position="floating">6s</ion-label>
+                <ion-input [(ngModel)]="player.sixes" ></ion-input>
+              </ion-item>
+              <ion-button expand="full" color="success" (click)="update()" >Update</ion-button>
+
+      
+</ion-content>

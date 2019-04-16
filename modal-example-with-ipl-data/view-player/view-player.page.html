@@ -1,0 +1,50 @@
+<ion-header>
+  <ion-toolbar>
+      <ion-buttons slot="start">
+          <ion-button color="danger" (click)="dismiss()">
+            <span ion-text color="primary" showWhen="ios"></span>
+            <ion-icon name="md-close" showWhen="android,windows"></ion-icon>
+          </ion-button>
+        </ion-buttons>
+    <ion-title>View Player Info</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+    <ion-card>
+        <ion-img [src]="player.image"></ion-img>
+        <ion-card-header>
+          <ion-card-title>{{player.name}}</ion-card-title>
+          <ion-card-subtitle>{{player.role}},{{player.nationality}}</ion-card-subtitle>
+
+        </ion-card-header>
+
+        </ion-card>
+        <ion-card>
+          <ion-list>
+            <ion-list-header color="tertiary">
+              Info
+            </ion-list-header>
+            <ion-item>
+                <ion-label>Matches</ion-label>
+                <ion-badge color="primary" slot="end">{{player.matches}}</ion-badge>
+              </ion-item>
+              <ion-item>
+                  <ion-label>Runs</ion-label>
+                  <ion-badge color="secondary" slot="end">{{player.runs}}</ion-badge>
+                </ion-item>
+                <ion-item>
+                    <ion-label>50s</ion-label>
+                    <ion-badge color="tertiary" slot="end">{{player.fifties}}</ion-badge>
+                  </ion-item>
+                  <ion-item>
+                      <ion-label>4s</ion-label>
+                      <ion-badge color="success" slot="end">{{player.fours}}</ion-badge>
+                    </ion-item>
+                    <ion-item>
+                        <ion-label>6s</ion-label>
+                        <ion-badge color="danger" slot="end">{{player.sixes}}</ion-badge>
+                      </ion-item>
+          </ion-list>
+        </ion-card>
+</ion-content>
