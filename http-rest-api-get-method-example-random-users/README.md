@@ -17,3 +17,18 @@ Keep visiting us to get more tutorials on other REST API
 ### Refresh Button
 
 In the above example, you can click the refresh button, which loads new random users information for each and every request.
+
+### PHP REST API
+
+If you want to create your own REST API using PHP, then visit the below link.
+
+https://www.codeofaninja.com/2017/02/create-simple-rest-api-in-php.html
+
+It is really Step By Step Guide.
+
+### Python Flask REST API
+
+1. https://ampersandacademy.com/tutorials/flask-framework/flask-framework-json-example
+2. https://ampersandacademy.com/tutorials/flask-framework
+
+The above links are useful for beginer level. Soon, i will put more tutorial to develop more robust REST API from scratch.
