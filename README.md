@@ -29,6 +29,7 @@ andacademy.com/tutorials/ionic-framework-4/install-ionic4-on-windows-10">Install
 6. <a href="https://github.com/bharathirajatut/ionic4/tree/master/push-notification-android-example">Phonegap Push Notification Example</a>
 7. <a href="https://github.com/bharathirajatut/ionic4/tree/master/modal-example-with-ipl-data"> Ionic 4 Modal Page Example</a>
 8. <a href="https://github.com/bharathirajatut/ionic4/tree/master/http-rest-api-get-method-example-random-users">HTTP REST API GET Method Example Using Random User API</a>
+9. <a href="https://ampersandacademy.com/tutorials/ionic-framework-4/ionic-4-angular-how-to-process-the-json-object-array">Ionic 4 Angular - How to process the JSON Object/Array?</a>
 
 ### Ionic 3 Tutorials
 
