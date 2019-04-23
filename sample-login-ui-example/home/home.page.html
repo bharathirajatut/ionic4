@@ -1,0 +1,63 @@
+
+<ion-content class="bg">
+
+  <ion-row class="ion-padding" style="margin-top:100px">
+    <ion-col size="6">
+      <ion-button color="{{loginStyle}}"  expand="full" shape="round" (click)="pressLogin()">Login</ion-button>
+    </ion-col>
+    <ion-col size="6">
+      <ion-button color="{{regStyle}}" expand="full" (click)="pressRegister()" shape="round" >Register</ion-button>
+    </ion-col>
+  </ion-row>
+  <!--reg section-->
+  <ion-row *ngIf="register" >
+     
+      <ion-card color="light" style="width:100%; border-radius:10px; margin-bottom:20px !important">
+        <ion-item color="light">
+            
+          <ion-label position="stacked" style="color:black"> <ion-icon name="mail" class="theme-color"></ion-icon> Email</ion-label>
+          <ion-input type="email" style="color:black"></ion-input>
+        </ion-item>
+        <ion-item color="light">
+          <ion-label position="stacked" style="color:black"><ion-icon name="contact" class="theme-color"></ion-icon>Username</ion-label>
+          <ion-input type="text" style="color:black"></ion-input>
+        </ion-item>
+        <ion-item  color="light" style="margin-bottom:40px !important">
+          <ion-label position="stacked" style="color:black"><ion-icon name="unlock" class="theme-color"></ion-icon>Password</ion-label>
+          <ion-input type="password" style="color:black"></ion-input>
+        </ion-item>        
+        </ion-card> 
+        
+        <ion-button style="margin:auto;margin-top:-40px; --background:#7ad0a4"expand="full" shape="round">Register</ion-button>
+  
+  </ion-row >
+
+  <!--reg ends here-->
+
+  <ion-row *ngIf="login">
+  
+      <ion-card color="light" style="width:100%; border-radius:10px; margin-bottom:20px !important">
+        <ion-item color="light">
+            
+          <ion-label position="stacked" style="color:black"> <ion-icon name="mail" class="theme-color"></ion-icon> Email</ion-label>
+          <ion-input type="email" style="color:black"></ion-input>
+        </ion-item>
+
+        <ion-item  color="light" style="margin-bottom:40px !important">
+          <ion-label position="stacked" style="color:black"><ion-icon name="unlock" class="theme-color"></ion-icon>Password</ion-label>
+          <ion-input type="password" style="color:black"></ion-input>
+        </ion-item>        
+        </ion-card> 
+
+        <ion-button style="margin:auto;margin-top:-40px; --background:#7ad0a4"expand="full" shape="round">Login</ion-button>
+  </ion-row >
+  <!--login section-->
+
+  <ion-row class="ion-padding">
+      <ion-col ion-center size="12" style="margin-top:60px">
+        <ion-button style="margin:auto;" color="light" fill="outline" expand="full" shape="round">Login with Facebook</ion-button>
+      </ion-col>
+    </ion-row>
+
+</ion-content>
+
