@@ -50,6 +50,7 @@ andacademy.com/tutorials/ionic-framework-4/install-ionic4-on-windows-10">Install
 9. <a href="https://ampersandacademy.com/tutorials/ionic-framework-4/ionic-4-angular-how-to-process-the-json-object-array">Ionic 4 Angular - How to process the JSON Object/Array?</a>
 10. <a href="https://github.com/bharathirajatut/ionic4/tree/master/sample-login-ui-example">Sample Login and Register Screen UI </a>
 11. <a href="https://github.com/bharathirajatut/ionic4/tree/master/geolocation(latitude%2Clongitude)-example"> Ionic 4 Geolocation Tutorial using Geolocation Plugin</a>
+12. <a href="https://github.com/bharathirajatut/ionic4/tree/master/location-accuracy-example">Ionic 4 Location Accuracy Plugin Example ( Programmatically enable location using Ionic)</a>
 
 ### Ionic 3 Tutorials
 
