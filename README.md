@@ -10,6 +10,8 @@ Hi I am writing a book for Ionic4. Will be released soon.
 
 ## Enroll Ionic 4 Classroom Training
 
+<img src="https://raw.githubusercontent.com/bharathirajatut/ionic4/master/i4.png">
+
 At Ampersand Academy, I am giving Ionic 4 training. If you are interested join, Please visit the below link.
 https://ampersandacademy.com/contact-ampersand-academy-chennai.html
 
