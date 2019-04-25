@@ -8,6 +8,22 @@ Hi I am writing a book for Ionic4. Will be released soon.
 
 <a href="https://ampersandacademy.com/publications/">Book Link</a>
 
+## Enroll Ionic 4 Classroom Training
+
+At Ampersand Academy, I am giving Ionic 4 training. If you are interested join, Please visit the below link.
+https://ampersandacademy.com/contact-ampersand-academy-chennai.html
+
+## Download Ionic 4Curriculum
+
+https://ampersandacademy.com/course/ionic-4-framework-training.html
+
+## What we offer in Ampersand Academy
+At Ampersand Academy, we offer a comprehensive course on Ionic Framework 4. There is no prerequisite for joining this course. Following are the various high-level topics that are covered as part of the syllabus. Ampersand Academy’s Ionic 4 Framework course includes the following.
+1. Ionic 4 Framework
+2. Angular
+3. Native Plugins
+4. Projects
+
 # Ionic4
 This repo contains example code for ionic4
 
