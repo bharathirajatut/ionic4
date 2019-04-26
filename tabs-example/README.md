@@ -1,5 +1,8 @@
 ## Ionic 4 Tabs Example With Login Screen
 
+Hi, the below link contains tutorial for the Ionic 4 tabs from scratch. If you find difficult to implement the tabs in Ionic 4, then this link will be very helpful.
+
+https://ampersandacademy.com/tutorials/ionic-framework-4/ionic-4-tabs-example-from-scratch-step-by-step-tutorial
 
 <b>Preview of Browser.</b>
 <p>
