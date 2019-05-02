@@ -51,6 +51,7 @@ andacademy.com/tutorials/ionic-framework-4/install-ionic4-on-windows-10">Install
 10. <a href="https://github.com/bharathirajatut/ionic4/tree/master/sample-login-ui-example">Sample Login and Register Screen UI </a>
 11. <a href="https://github.com/bharathirajatut/ionic4/tree/master/geolocation(latitude%2Clongitude)-example"> Ionic 4 Geolocation Tutorial using Geolocation Plugin</a>
 12. <a href="https://github.com/bharathirajatut/ionic4/tree/master/location-accuracy-example">Ionic 4 Location Accuracy Plugin Example ( Programmatically enable location using Ionic)</a>
+13. <a href="https://github.com/bharathirajatut/ionic4/tree/master/ionic4-calendar-ui-example1">Ionic 4 Calendar UI Example 1</a>
 
 ### Ionic 3 Tutorials
 
