@@ -1,0 +1,27 @@
+.bg
+{
+
+    --background: linear-gradient(to right, #6441A5 0%, #2a0845 51%, #6441A5 100%);
+    
+}
+
+.bg2{
+    
+    --background: linear-gradient(to right, #fd746c 0%, #ff9068 51%, #fd746c 100%);
+    
+}
+
+.bg3{
+
+    --background: linear-gradient(to right, #ff00cc 0%, #333399 51%, #ff00cc 100%);
+
+}
+
+.mbg{
+    
+   .week-toolbar.primary[_ngcontent-c2] {
+        --background:
+         linear-gradient(to right, #ff00cc 0%, #333399 51%, #ff00cc 100%);
+
+}
+}

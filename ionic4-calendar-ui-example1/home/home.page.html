@@ -1,0 +1,33 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>calendar-ui1</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content padding>
+  
+  <ion-button class="bg" (click)="basic()" expand="block" >Basic</ion-button>
+  <ion-button class="bg2" (click)="multiple()" expand="block" >Multiple</ion-button>
+
+  <ion-button class="bg3" (click)="range()" expand="block" >Range</ion-button>
+
+  <ion-calendar [(ngModel)]="date"
+  (change)="onChange($event)"
+  [type]="type"
+  [format]="'YYYY-MM-DD'">
+</ion-calendar>
+
+<ion-calendar [(ngModel)]="dateRange"
+              [options]="optionsRange"
+              [type]="type"
+              [format]="'YYYY-MM-DD'">
+</ion-calendar>
+
+
+<ion-calendar [(ngModel)]="dateMulti"
+              [options]="optionsMulti"
+              [type]="type"
+              [format]="'YYYY-MM-DD'">
+</ion-calendar>
+
+</ion-content>
