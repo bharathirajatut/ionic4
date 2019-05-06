@@ -1,0 +1,33 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Infinite Scroll Example</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content padding>
+
+    <ion-list>
+      <ion-list-header color="tertiary">
+        <ion-label>Random Users List</ion-label>
+      </ion-list-header>
+        <ion-item *ngFor="let x of usersList;let i=index" >
+            <ion-avatar slot="start">
+              <img [src]="x.picture.large">
+            </ion-avatar>
+            <ion-label>
+              <h3>{{x.name.title}}. {{x.name.first}}</h3>
+              <p>{{x.email}}</p>
+              <p>{{x.registered.date}}</p>
+            </ion-label>
+          </ion-item>
+      </ion-list>
+
+
+      <ion-infinite-scroll threshold="40px" (ionInfinite)="loadData($event)">
+        <ion-infinite-scroll-content
+          loadingSpinner="bubbles"
+          loadingText="Loading more data...">
+        </ion-infinite-scroll-content>
+      </ion-infinite-scroll>
+
+</ion-content>
