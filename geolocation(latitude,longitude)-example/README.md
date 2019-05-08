@@ -1,6 +1,8 @@
 ## Ionic 4 Geolocation Example
 
+Get Step by step implementation of Ionic 4 Geolocation plugin example using the below link.
 
+https://ampersandacademy.com/tutorials/ionic-framework-4/ionic-4-get-current-location-using-geolocation-plugin
 
 <b>Preview of Android.</b>
 <p>
