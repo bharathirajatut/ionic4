@@ -22,5 +22,7 @@ https://github.com/HsuanXyz/ion2-calendar
 
 ## How to use this plugin?
 
-Coming soon.
+Use the below link to implement this plugin from scratch using Ionic 4
+
+https://ampersandacademy.com/tutorials/ionic-framework-4/ionic-4-calendar-ui-plugin-example
 
