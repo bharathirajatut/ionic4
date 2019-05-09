@@ -61,7 +61,7 @@ async editModal(player,index) {
     componentProps: { player: player }
   });
   modal.onDidDismiss().then(data=>{
-    this.playersList[index]=data
+    this.playersList[index]=data.data
   })
   return await modal.present();
 }
