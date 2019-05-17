@@ -1,0 +1,27 @@
+<ion-header>
+  <ion-toolbar>
+
+
+    <ion-title>Device Info</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+
+  <ion-button color="danger" (click)="getInfo()" expand="block" > 
+    Get Device Info</ion-button>
+
+  <ion-list >
+
+    <ion-list-header color="medium">
+      Device Information
+    </ion-list-header>
+    <ion-item *ngFor="let item of items" detail>
+      <ion-label>{{ item.key }}</ion-label>
+      <ion-badge slot="end"> {{item.value}}</ion-badge>
+   </ion-item>
+    </ion-list>
+    
+
+
+</ion-content>
