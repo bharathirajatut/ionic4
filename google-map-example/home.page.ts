@@ -31,8 +31,8 @@ export class HomePage {
 
     // This code is necessary for browser
     Environment.setEnv({
-      'API_KEY_FOR_BROWSER_RELEASE': 'AIzaSyBJZKCGHFVkOiy4hqYAlW9_jEcWQKeFEVY',
-      'API_KEY_FOR_BROWSER_DEBUG': 'AIzaSyBJZKCGHFVkOiy4hqYAlW9_jEcWQKeFEVY'
+      'API_KEY_FOR_BROWSER_RELEASE': 'API-KEY',
+      'API_KEY_FOR_BROWSER_DEBUG': 'API-KEY'
     });
 
     let mapOptions: GoogleMapOptions = {
