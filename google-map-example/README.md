@@ -71,6 +71,9 @@ import {
 
 Get the google map implemented code using the <b>home.html, home.ts and home.scss</b> file
 
+In <b>home.page.ts</b> file, Replace the `API-KEY` with your google map key
+
+
 ### Step5:
 
 Generated apk and deploy using below command.
