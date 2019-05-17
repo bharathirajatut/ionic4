@@ -56,6 +56,8 @@ andacademy.com/tutorials/ionic-framework-4/install-ionic4-on-windows-10">Install
 13. <a href="https://github.com/bharathirajatut/ionic4/tree/master/ionic4-calendar-ui-example1">Ionic 4 Calendar UI Example 1</a>
 14. <a href="https://github.com/bharathirajatut/ionic4/tree/master/slides-example">Ionic 4 Slides Example </a>
 15. <a href="https://github.com/bharathirajatut/ionic4/tree/master/ionic4-infinite-scroll-example">Ionic 4 Infinite Scroll Example</a>
+16. <a href="https://github.com/bharathirajatut/ionic4/tree/master/google-map-example">Ionic 4 Google Map Example using Native Plugin</a>
+17. <a href="https://github.com/bharathirajatut/ionic4/tree/master/device-information">Ionic 4 Get Device Information</a>
 
 ## Ionic 3 Tutorials
 
