@@ -12,6 +12,16 @@ Coming soon.
 </p>
 <br>
 
+## How to do this?
+
+Install native plugin.
+
+```
+ionic cordova plugin add cordova-plugin-telerik-imagepicker
+npm install @ionic-native/image-picker
+```
+
+
 ## Downnload APK
 
 Get the APK and test it on your Android Device.
