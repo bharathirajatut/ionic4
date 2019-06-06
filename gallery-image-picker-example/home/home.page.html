@@ -8,9 +8,7 @@
 
 <ion-content padding>
     <ion-button (click)="openImagePicker()" >Image Picker</ion-button>
-    <ion-content class="card-background-page" *ngFor="let x of images">
-
-        <ion-card>
+        <ion-card *ngFor="let x of images">
           <img src="{{x}}" style="height:400px">
         </ion-card>
 </ion-content>
