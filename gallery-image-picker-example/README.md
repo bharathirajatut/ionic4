@@ -20,6 +20,11 @@ Install native plugin.
 ionic cordova plugin add cordova-plugin-telerik-imagepicker
 npm install @ionic-native/image-picker
 ```
+Install cordova gradle support plugin, why because the image picker will stop app due to version difference. The cordova gradle support prevents app stopping.
+
+```
+cordova plugin add cordova-android-support-gradle-release
+```
 
 
 ## Downnload APK
