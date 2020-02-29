@@ -59,6 +59,7 @@ andacademy.com/tutorials/ionic-framework-4/install-ionic4-on-windows-10">Install
 16. <a href="https://github.com/bharathirajatut/ionic4/tree/master/google-map-example">Ionic 4 Google Map Example using Native Plugin</a>
 17. <a href="https://github.com/bharathirajatut/ionic4/tree/master/device-information">Ionic 4 Get Device Information</a>
 
+18. <a href="https://github.com/bharathirajatut/ionic4-higher-example/tree/master/add-cart-example">Add to cart using plain TS</a> 
 ## Ionic 3 Tutorials
 
 Yo can Ionic 3 related tutorial using the below links.
