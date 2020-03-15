@@ -28,16 +28,6 @@ At Ampersand Academy, we offer a comprehensive course on Ionic Framework 4. Ther
 3. Native Plugins
 4. Projects
 
-# Ionic4
-This repo contains example code for ionic4
-
-## APK
-I thought to share the apk of Ionic example, which is written by me. So in each topic, i will share the apk. You can download and try it on your device. It is not harmful. If you want to know how the code works before trying by yourself, you can install these APK's. It is not stealing any info from your device. If any information is capture by any of these apk and i will let you know what are the information it records, if you install the apk. 
-
-## Get All Ionic 4 Tutorials
-
-<a href="https://ampersandacademy.com/tutorials/ionic-framework-4">Ionic 4 Tutorials</a>
-
 ## Ionic 4 Tutorials and Source Code Links
 
 1. <a href="https://ampers
@@ -60,6 +50,15 @@ andacademy.com/tutorials/ionic-framework-4/install-ionic4-on-windows-10">Install
 17. <a href="https://github.com/bharathirajatut/ionic4/tree/master/device-information">Ionic 4 Get Device Information</a>
 
 18. <a href="https://github.com/bharathirajatut/ionic4-higher-example/tree/master/add-cart-example">Add to cart using plain TS</a> 
+19. <a href="https://github.com/bharathirajatut/ionic4-higher-example/tree/master/cart-crud-php-mysql-example">Cart - CRUD Example(PHP,MySQL Full Source Code)</a>
+
+## APK
+I thought to share the apk of Ionic example, which is written by me. So in each topic, i will share the apk. You can download and try it on your device. It is not harmful. If you want to know how the code works before trying by yourself, you can install these APK's. It is not stealing any info from your device. If any information is capture by any of these apk and i will let you know what are the information it records, if you install the apk. 
+
+## Get All Ionic 4 Tutorials
+
+<a href="https://ampersandacademy.com/tutorials/ionic-framework-4">Ionic 4 Tutorials</a>
+
 ## Ionic 3 Tutorials
 
 Yo can Ionic 3 related tutorial using the below links.
